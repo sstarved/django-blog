@@ -1,0 +1,5 @@
+{
+  "name": "Django blog tutorial",
+  "description": "Django blog tutorial from dontrepeatyourself.org",
+  "keywords": ["django", "heroku"]
+}
